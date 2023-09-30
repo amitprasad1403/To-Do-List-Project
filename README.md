@@ -21,7 +21,7 @@ To deploy this project run index.html file on your browser.
 ## Installation options
 
 Using below link
- gh repo clone madhu6519/ToDoList_Project.github.io
+ https://github.com/amitprasad1403/To-Do-List-Project/
 
                     or
 Simply download the Zip File and run on your system 
