@@ -52,7 +52,7 @@ input{
 button{
     border: none;
     outline: none;
-    padding: 16px 50px;
+    padding: 15px 25px;
     background: #3b362f;
     color: #fff;
     font-size: 16px;
@@ -85,7 +85,7 @@ ul li.check{
     text-decoration: line-through;
 }
 ul li.check::before{
-    background-image: url(https://static.vecteezy.com/system/resources/previews/002/743/514/original/green-check-mark-icon-in-a-circle-free-vector.jpg);
+    background-image: url(https://icon-library.com/images/check-icon-png/check-icon-png-6.jpg);
     
 }
 ul li span{
