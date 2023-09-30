@@ -28,4 +28,4 @@ Simply download the Zip File and run on your system
 
 ## App preview
 
-![image](https://github.com/amitprasad1403/To-Do-List-Project/blob/main/to-do-list.png)
+![image](https://github.com/amitprasad1403/To-Do-List-Project/blob/main/to_do_list.png)
